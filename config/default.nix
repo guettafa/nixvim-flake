@@ -2,8 +2,8 @@
   # Import all your configuration modules here
   imports = [ ./bufferline.nix ./behavior.nix ];
 
-  # Configurations
-  colorschemes.gruvbox.enable = true;
+  # Colorscheme
+  colorschemes.nord.enable = true;
 
   # Plugins
   plugins = {
