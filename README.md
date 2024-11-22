@@ -6,7 +6,7 @@
 nix run .
 ```
 
-## To run via github repo
+## To run from github repo
 ```
 nix run github:guettafa/nixvim-flake
 ```
