@@ -10,3 +10,8 @@ nix run .
 ```
 nix run github:guettafa/nixvim-flake
 ```
+
+## To build
+```
+nix build . && ./result/bin/nvim  
+```
